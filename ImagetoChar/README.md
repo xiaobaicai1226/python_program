@@ -1,0 +1,2 @@
+# pylearngit
+此为使用Python完成一些小项目，便于自己加深对Python的熟悉和理解
